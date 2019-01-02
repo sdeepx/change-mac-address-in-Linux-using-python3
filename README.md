@@ -1,4 +1,4 @@
-# change_mac_address_in_kali_linux
+# change_mac_address_in_kali_linux_using_python3
 You can change you mac address using this python script.
 
 go to your terminal and access the root user using this command - sudo su (and enter your password)
